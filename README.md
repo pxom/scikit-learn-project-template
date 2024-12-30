@@ -1,5 +1,5 @@
-project-template - A template for scikit-learn contributions
-============================================================
+FPTGP Fuzzy Pattern Trees with Genetic Programming - a Scikit-learn compatible Open Source library for introducing FPTs as an Explainability Tool
+=================================================================================================================================================
 
 ![tests](https://github.com/scikit-learn-contrib/project-template/actions/workflows/python-app.yml/badge.svg)
 [![codecov](https://codecov.io/gh/scikit-learn-contrib/project-template/graph/badge.svg?token=L0XPWwoPLw)](https://codecov.io/gh/scikit-learn-contrib/project-template)
