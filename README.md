@@ -5,6 +5,7 @@ FPTGP Fuzzy Pattern Trees with Genetic Programming - a Scikit-learn compatible O
 [![codecov](https://codecov.io/gh/scikit-learn-contrib/project-template/graph/badge.svg?token=L0XPWwoPLw)](https://codecov.io/gh/scikit-learn-contrib/project-template)
 ![doc](https://github.com/scikit-learn-contrib/project-template/actions/workflows/deploy-gh-pages.yml/badge.svg)
 
+![doc](https://github.com/pxom/scikit-learn-project-template/blob/main/assets/fptgp_logo.png)
 **project-template** is a template project for [scikit-learn](https://scikit-learn.org)
 compatible extensions.
 
